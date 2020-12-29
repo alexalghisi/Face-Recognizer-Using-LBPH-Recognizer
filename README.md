@@ -30,3 +30,7 @@ Packages needed:
 `python3 -m pip install --upgrade Pillow`
 
 `pip install opencv_contrib_python`
+
+**Panda**
+
+`pip install pandas`
